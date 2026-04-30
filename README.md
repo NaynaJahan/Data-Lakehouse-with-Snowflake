@@ -8,3 +8,5 @@ It focuses on analyzing a large dataset of trending YouTube videos from differen
 - Data ingestion and converting it to Snowflake tables.
 - Data cleaning to ensure accuracy and consistency.
 - Data analysis to derive significant insights and respond to particular business inquiries concerning regional trends in YouTube videos.
+
+More detailed explanation and analysis can be found in the report posted in this repo - [Data Lakehouse with Snowflake.pdf](https://github.com/NaynaJahan/Data-Lakehouse-with-Snowflake/blob/main/Data%20Lakehouse%20with%20Snowflake.pdf)
